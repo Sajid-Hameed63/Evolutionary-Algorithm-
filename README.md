@@ -1,2 +1,2 @@
-# Evolutionary-Algorithm-
+# Evolutionary-Algorithm
 Evolutionary Algorithm 
